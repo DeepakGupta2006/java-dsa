@@ -1,8 +1,9 @@
+// no pyramid
 
 public class pat10 {
 
     public static void main(String[] args) {
-        int n = 10;
+        int n = 8;
 
         for (int i = 1; i <= n; i++) {
             //spaces
