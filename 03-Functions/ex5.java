@@ -1,3 +1,4 @@
+// Ques sum=odd
 
 import java.util.*;
 
