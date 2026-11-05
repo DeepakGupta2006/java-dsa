@@ -1,4 +1,4 @@
-//  avg of 3numbers
+// Ques avg of 3numbers
 
 import java.util.*;
 
