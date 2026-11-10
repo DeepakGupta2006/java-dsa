@@ -5,7 +5,7 @@ import java.util.*;
 public class ex4 {
 
     public static float avgOf3Nos(int a, int b, int c) {
-        int avg = (a + b + c) * 2;
+        int avg = (a + b + c) / 3;
         return avg;
     }
 
